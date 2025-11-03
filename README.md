@@ -1,1 +1,1 @@
-SSH-Secure Shell Protocol
+SSH
