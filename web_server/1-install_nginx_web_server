@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Script Name: 1-install_nginx_web_server
 # Description: Installs and configures Nginx to serve a page containing "Holberton School"
 
