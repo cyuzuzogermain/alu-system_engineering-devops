@@ -36,8 +36,8 @@ frontend http_front
 
 backend web_servers
     balance roundrobin
-    server 6380-web-01 18.207.204.181:80 check
-    server 6380-web-02 18.233.154.199:80 check
+    server 6380-web-01 34.205.24.28:80 check
+    server 6380-web-02 34.239.101.72:80 check
 EOL
 
 # Restart HAProxy service
